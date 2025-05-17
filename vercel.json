@@ -1,7 +1,7 @@
 {
   "redirects": [
     { "source": "/", "destination": "https://medium.com/@blockcuan", "permanent": true },
-    { "source": "/youtube", "destination": "https://youtube.com/blockcuan", "permanent": true },
+    { "source": "/youtube", "destination": "https://www.youtube.com/@blockcuan", "permanent": true },
     { "source": "/airdrop", "destination": "https://t.me/blockcuannews/30", "permanent": true },
     { "source": "/binance", "destination": "https://accounts.binance.info/register?ref=5570893206", "permanent": true },
     { "source": "/x", "destination": "https://x.com/blockcuan_news", "permanent": true },
