@@ -5,6 +5,7 @@
     { "source": "/airdrop", "destination": "https://t.me/blockcuannews/30", "permanent": true },
     { "source": "/binance", "destination": "https://accounts.binance.info/register?ref=5570893206", "permanent": true },
     { "source": "/x", "destination": "https://x.com/blockcuan_news", "permanent": true },
+    { "source": "/euclid", "destination": "https://planet.euclidprotocol.io?ref=EUCLIDEAN658709", "permanent": true },
     { "source": "/tutor", "destination": "https://t.me/blockcuannews", "permanent": true }
   ]
 }
