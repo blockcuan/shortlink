@@ -1,14 +1,23 @@
 {
   "redirects": [
     { "source": "/", "destination": "https://medium.com/@blockcuan", "permanent": true },
-    { "source": "/youtube", "destination": "https://www.youtube.com/@blockcuan", "permanent": true },
-    { "source": "/airdrop", "destination": "https://t.me/blockcuannews/30", "permanent": true },
-    { "source": "/binance", "destination": "https://accounts.binance.info/register?ref=5570893206", "permanent": true },
-    { "source": "/x", "destination": "https://x.com/blockcuan_news", "permanent": true },
-    { "source": "/euclid", "destination": "https://planet.euclidprotocol.io?ref=EUCLIDEAN658709", "permanent": true },
     { "source": "/ecer", "destination": "https://t.me/Kedai_CryptoBot?start=r1379119583", "permanent": true },
+    { "source": "/youtube", "destination": "https://www.youtube.com/@blockcuan", "permanent": true },
+    { "source": "/x", "destination": "https://x.com/blockcuan_news", "permanent": true },
+    { "source": "/tiktok", "destination": "https://www.tiktok.com/@blockcuannews", "permanent": true },
+    { "source": "/binance", "destination": "https://accounts.binance.info/register?ref=5570893206", "permanent": true },
     { "source": "/bitunix", "destination": "https://www.bitunix.com/register?vipCode=k41x2339", "permanent": true },
+    { "source": "/bittime", "destination": "https://www.bittime.com/register?inviteCode=QAHTET", "permanent": true },
+    { "source": "/tokocrypto", "destination": "https://www.tokocrypto.com/account/signup?ref=A3F8LB14", "permanent": true },
+    { "source": "/gateio", "destination": "https://www.gate.io/signup/VLFFXQPAUG?ref_type=103", "permanent": true },
+    { "source": "/okx", "destination": "https://okx.com/join/75996430", "permanent": true },
+    { "source": "/bybit", "destination": "https://www.bybitglobal.com/invite?ref=2GYOKGX", "permanent": true },
+    { "source": "/mexc", "destination": "https://www.mexc.com/register?inviteCode=2hkMg", "permanent": true },
+    { "source": "/bitget", "destination": "https://www.bgportable.com/id/referral/register?clacCode=LWKCK7FS", "permanent": true },
+    { "source": "/kucoin", "destination": "https://www.kucoin.com/r/af/TOWENXSERU", "permanent": true },
+    { "source": "/euclid", "destination": "https://planet.euclidprotocol.io?ref=EUCLIDEAN658709", "permanent": true },
     { "source": "/one", "destination": "https://ofc.onefootball.com/s2?referral=riUmDckC3srM", "permanent": true },
+    { "source": "/airdrop", "destination": "https://t.me/blockcuannews/30", "permanent": true },
     { "source": "/tutor", "destination": "https://t.me/blockcuannews", "permanent": true }
   ]
 }
