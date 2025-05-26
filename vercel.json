@@ -7,6 +7,7 @@
     { "source": "/x", "destination": "https://x.com/blockcuan_news", "permanent": true },
     { "source": "/euclid", "destination": "https://planet.euclidprotocol.io?ref=EUCLIDEAN658709", "permanent": true },
     { "source": "/ecer", "destination": "https://t.me/Kedai_CryptoBot?start=r1379119583", "permanent": true },
+    { "source": "/bitunix", "destination": "https://www.bitunix.com/register?vipCode=k41x2339", "permanent": true },
     { "source": "/one", "destination": "https://ofc.onefootball.com/s2?referral=riUmDckC3srM", "permanent": true },
     { "source": "/tutor", "destination": "https://t.me/blockcuannews", "permanent": true }
   ]
