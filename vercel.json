@@ -17,6 +17,7 @@
     { "source": "/kucoin", "destination": "https://www.kucoin.com/r/af/TOWENXSERU", "permanent": true },
     { "source": "/euclid", "destination": "https://planet.euclidprotocol.io?ref=EUCLIDEAN658709", "permanent": true },
     { "source": "/one", "destination": "https://ofc.onefootball.com/s2?referral=riUmDckC3srM", "permanent": true },
+    { "source": "/zealy", "destination": "https://zealy.io/cw/zealyzaps/invite/IsgsxfS7G5wdcHY7vC4dm?questId=1c1e48cb-3dc6-4cc6-a341-e2963cc05866", "permanent": true },
     { "source": "/airdrop", "destination": "https://t.me/blockcuannews/30", "permanent": true },
     { "source": "/tutor", "destination": "https://t.me/blockcuannews", "permanent": true }
   ]
