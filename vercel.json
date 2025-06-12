@@ -15,10 +15,12 @@
     { "source": "/mexc", "destination": "https://www.mexc.com/register?inviteCode=2hkMg", "permanent": true },
     { "source": "/bitget", "destination": "https://www.bgportable.com/id/referral/register?clacCode=LWKCK7FS", "permanent": true },
     { "source": "/kucoin", "destination": "https://www.kucoin.com/r/af/TOWENXSERU", "permanent": true },
+    { "source": "/ourbit", "destination": "https://www.ourbit.com/register?inviteCode=8YR2WP", "permanent": true },
     { "source": "/euclid", "destination": "https://planet.euclidprotocol.io?ref=EUCLIDEAN658709", "permanent": true },
     { "source": "/one", "destination": "https://ofc.onefootball.com/s2?referral=riUmDckC3srM", "permanent": true },
     { "source": "/zealy", "destination": "https://zealy.io/cw/zealyzaps/invite/IsgsxfS7G5wdcHY7vC4dm?questId=1c1e48cb-3dc6-4cc6-a341-e2963cc05866", "permanent": true },
     { "source": "/airdrop", "destination": "https://t.me/blockcuannews/30", "permanent": true },
+    { "source": "/bot", "destination": "http://telegram.me/blockcuan_bot", "permanent": true },
     { "source": "/tutor", "destination": "https://t.me/blockcuannews", "permanent": true }
   ]
 }
