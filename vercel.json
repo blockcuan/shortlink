@@ -16,6 +16,7 @@
     { "source": "/bitget", "destination": "https://www.bgportable.com/id/referral/register?clacCode=LWKCK7FS", "permanent": true },
     { "source": "/kucoin", "destination": "https://www.kucoin.com/r/af/TOWENXSERU", "permanent": true },
     { "source": "/ourbit", "destination": "https://www.ourbit.com/register?inviteCode=8YR2WP", "permanent": true },
+    { "source": "/bitmart", "destination": "https://www.bitmart.com/invite/c5GuNK/en", "permanent": true },
     { "source": "/euclid", "destination": "https://planet.euclidprotocol.io?ref=EUCLIDEAN658709", "permanent": true },
     { "source": "/one", "destination": "https://ofc.onefootball.com/s2?referral=riUmDckC3srM", "permanent": true },
     { "source": "/zealy", "destination": "https://zealy.io/cw/zealyzaps/invite/IsgsxfS7G5wdcHY7vC4dm?questId=1c1e48cb-3dc6-4cc6-a341-e2963cc05866", "permanent": true },
