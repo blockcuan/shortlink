@@ -19,6 +19,7 @@
     { "source": "/bitmart", "destination": "https://www.bitmart.com/invite/c5GuNK/en", "permanent": true },
     { "source": "/flipster", "destination": "https://flipster.io/signin?referral_code=A84ZN7QYVE", "permanent": true },
     { "source": "/euclid", "destination": "https://planet.euclidprotocol.io?ref=EUCLIDEAN658709", "permanent": true },
+    { "source": "/lbank", "destination": "https://lbank.com/ref/55R4B", "permanent": true },
     { "source": "/one", "destination": "https://ofc.onefootball.com/s2?referral=riUmDckC3srM", "permanent": true },
     { "source": "/zealy", "destination": "https://zealy.io/cw/zealyzaps/invite/IsgsxfS7G5wdcHY7vC4dm?questId=1c1e48cb-3dc6-4cc6-a341-e2963cc05866", "permanent": true },
     { "source": "/airdrop", "destination": "https://t.me/blockcuannews/30", "permanent": true },
