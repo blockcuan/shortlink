@@ -1,9 +1,9 @@
 {
   "redirects": [
-    { "source": "/", "destination": "https://medium.com/@blockcuan", "permanent": true },
+    { "source": "/", "destination": "https://x.com/blockcuan_news", "permanent": true },
     { "source": "/ecer", "destination": "https://t.me/Kedai_CryptoBot?start=r1379119583", "permanent": true },
     { "source": "/youtube", "destination": "https://www.youtube.com/@blockcuan", "permanent": true },
-    { "source": "/x", "destination": "https://x.com/blockcuan_news", "permanent": true },
+    { "source": "/medium", "destination": "https://medium.com/@blockcuan", "permanent": true },
     { "source": "/tiktok", "destination": "https://www.tiktok.com/@blockcuannews", "permanent": true },
     { "source": "/binance", "destination": "https://accounts.binance.info/register?ref=5570893206", "permanent": true },
     { "source": "/bitunix", "destination": "https://www.bitunix.com/register?vipCode=k41x2339", "permanent": true },
@@ -26,6 +26,6 @@
     { "source": "/zealy", "destination": "https://zealy.io/cw/zealyzaps/invite/IsgsxfS7G5wdcHY7vC4dm?questId=1c1e48cb-3dc6-4cc6-a341-e2963cc05866", "permanent": true },
     { "source": "/airdrop", "destination": "https://t.me/blockcuannews/30", "permanent": true },
     { "source": "/bot", "destination": "http://telegram.me/blockcuan_bot", "permanent": true },
-    { "source": "/tutor", "destination": "https://t.me/blockcuannews", "permanent": true }
+    { "source": "/tele", "destination": "https://t.me/blockcuannews", "permanent": true }
   ]
 }
