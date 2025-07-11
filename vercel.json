@@ -2,6 +2,7 @@
   "redirects": [
     { "source": "/", "destination": "https://x.com/blockcuan_news", "permanent": true },
     { "source": "/ecer", "destination": "https://t.me/Kedai_CryptoBot?start=r1379119583", "permanent": true },
+    { "source": "/wa", "destination": "https://whatsapp.com/channel/0029VaBHdQm0rGiOF9J4fT2h", "permanent": true },
     { "source": "/youtube", "destination": "https://www.youtube.com/@blockcuan", "permanent": true },
     { "source": "/medium", "destination": "https://medium.com/@blockcuan", "permanent": true },
     { "source": "/tiktok", "destination": "https://www.tiktok.com/@blockcuannews", "permanent": true },
@@ -20,7 +21,6 @@
     { "source": "/flipster", "destination": "https://flipster.io/signin?referral_code=A84ZN7QYVE", "permanent": true },
     { "source": "/euclid", "destination": "https://planet.euclidprotocol.io?ref=EUCLIDEAN658709", "permanent": true },
     { "source": "/lbank", "destination": "https://lbank.com/ref/55R4B", "permanent": true },
-    { "source": "/one", "destination": "https://ofc.onefootball.com/s2?referral=riUmDckC3srM", "permanent": true },
     { "source": "/one", "destination": "https://ofc.onefootball.com/s2?referral=riUmDckC3srM", "permanent": true },
     { "source": "/pharos", "destination": "https://testnet.pharosnetwork.xyz/experience?inviteCode=wAPnuZLKg0CpV7Na", "permanent": true },
     { "source": "/zealy", "destination": "https://zealy.io/cw/zealyzaps/invite/IsgsxfS7G5wdcHY7vC4dm?questId=1c1e48cb-3dc6-4cc6-a341-e2963cc05866", "permanent": true },
