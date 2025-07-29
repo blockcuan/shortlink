@@ -24,6 +24,7 @@
     { "source": "/one", "destination": "https://ofc.onefootball.com/s2?referral=riUmDckC3srM", "permanent": true },
     { "source": "/pharos", "destination": "https://testnet.pharosnetwork.xyz/experience?inviteCode=wAPnuZLKg0CpV7Na", "permanent": true },
     { "source": "/zealy", "destination": "https://zealy.io/cw/zealyzaps/invite/IsgsxfS7G5wdcHY7vC4dm?questId=1c1e48cb-3dc6-4cc6-a341-e2963cc05866", "permanent": true },
+    { "source": "/galxe", "destination": "https://app.galxe.com/hub/invite?code=GICyJr43Nj1NL6tlgYcpYduqSh_XSwHQR5J7Hc1mtE=", "permanent": true },
     { "source": "/airdrop", "destination": "https://t.me/blockcuannews/30", "permanent": true },
     { "source": "/bot", "destination": "http://telegram.me/blockcuan_bot", "permanent": true },
     { "source": "/tele", "destination": "https://t.me/blockcuannews", "permanent": true }
